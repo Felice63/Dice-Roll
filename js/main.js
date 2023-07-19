@@ -2,8 +2,7 @@ document.addEventListener("click", craps);
 
 // event listener for the second function that fires after 'craps'
 // animationend is an event
-// SEE: https://www.w3schools.com/jsref/event_animationend.asp
-// Aslo SEE: https://developer.mozilla.org/en-US/docs/Web/API/Element/animationend_event
+// SEE: https://developer.mozilla.org/en-US/docs/Web/API/Element/animationend_event
 
 document.addEventListener("animationend", removeSpin);
 
